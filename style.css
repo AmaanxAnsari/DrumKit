@@ -1,0 +1,67 @@
+body{
+    background: rgb(63,93,248);
+    background: radial-gradient(circle, rgba(63,93,248,1) 0%, rgba(153,153,153,1) 0%, rgb(8, 9, 37) 80%);
+}
+.main{
+  width: 40rem;
+
+}
+h1{
+  font-family: fantasy;
+  text-align: center;
+  font-size: 8rem;
+  color: rgb(15, 10, 39);
+  text-shadow: 5px 5px #d1d1d1;
+
+}
+.l{
+  width: 300px;
+  position: absolute;
+  top: 187px;
+  left: 450px;
+  
+}
+
+.w{
+  width: 173px;
+  position: absolute;
+  top: 261px;
+  left: 605px;
+}
+
+.d{
+  width: 200px;
+  position: absolute;
+  top: 363px;
+  left: 532px;
+}
+
+.s{
+  width: 238px;
+  position: absolute;
+  top: 399px;
+  left: 686px;
+}
+
+.j{
+  width: 149px;
+  position: absolute;
+  top: 402px;
+  left: 856px;
+}
+
+.a{
+  width: 150px;
+  position: absolute;
+  top: 261px;
+  left: 829px;
+}
+
+
+.k{
+  width: 138px;
+  position: absolute;
+  top: 321px;
+  left: 951px;
+}
+
